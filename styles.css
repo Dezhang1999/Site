@@ -1,0 +1,24 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+h1{
+    color: #1dd1b3;
+    text-align: center;
+    font-size: 75px;
+    }
+p{
+    display: inline;
+    color:#4289f4;}
+h2{
+    text-align: center;   
+}
+body{ 
+    background-image: url("http://more-sky.com/data/out/12/IMG_523675.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+body{
+    cursor: url("https://hydra-media.cursecdn.com/overwatch.gamepedia.com/thumb/1/14/Spray_Widowmaker_Scope.png/100px-Spray_Widowmaker_Scope.png?version=7fe44fbb400f4db2d7d2e08d2dd9bcba"),auto;}
